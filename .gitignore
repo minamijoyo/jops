@@ -1,0 +1,12 @@
+.settings/
+bin/
+diff/
+result/
+setting/
+tmp/
+sh/
+*.zip
+*.jar
+*.sh
+.classpath
+.project
